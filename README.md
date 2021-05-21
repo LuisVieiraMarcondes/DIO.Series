@@ -1,6 +1,6 @@
 # Projeto DIO Series :movie_camera:
 
-<img src="dioSeries.png" width="600px"/>
+<img src="dioSeries.png" width="450px"/>
 
  Criamos um projeto Console DotNet que simula um aplicativo de Cadastro de Séries e nele introduzimos mais alguns conceitos que iremos Listar:
 
