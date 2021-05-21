@@ -1,5 +1,7 @@
 # Projeto DIO Series :movie_camera:
 
+<img src="dioSerie.png" width="600px"/>
+
  Criamos um projeto Console DotNet que simula um aplicativo de Cadastro de Séries e nele introduzimos mais alguns conceitos que iremos Listar:
 
 - Criamos uma Classe abstrata
